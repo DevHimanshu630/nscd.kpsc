@@ -1,0 +1,52 @@
+[10-Apr-2024 21:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[10-Apr-2024 21:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:08:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[12-Apr-2024 01:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[15-Apr-2024 10:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
+[18-May-2024 00:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/itcolvue/public_html/kpsc/wp-content/themes/kuru_museum/index.php on line 18
